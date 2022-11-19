@@ -1,0 +1,1 @@
+default persistent.first_run = False
